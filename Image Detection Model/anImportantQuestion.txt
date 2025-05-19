@@ -1,0 +1,11 @@
+imagine...
+
+you scan a plastic toy alligator
+model recognizes it as {"id": 5,"name": "alligator/gator"}
+
+do you treat it:
+a) like a toy; or
+b) like an actual alligator, on the off-chance that someone scanned an actual live prolly-trying-to-bite-you gator
+
+follow up question:
+is it fragile or food?
