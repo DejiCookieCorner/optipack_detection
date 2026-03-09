@@ -1,0 +1,278 @@
+[
+  {
+    "id": 10,
+    "name": "Apple"
+  },
+  {
+    "id": 12,
+    "name": "Artichoke"
+  },
+  {
+    "id": 16,
+    "name": "Bagel"
+  },
+  {
+    "id": 17,
+    "name": "Baked goods"
+  },
+  {
+    "id": 21,
+    "name": "Banana"
+  },
+  {
+    "id": 39,
+    "name": "Bell pepper"
+  },
+  {
+    "id": 65,
+    "name": "Bread"
+  },
+  {
+    "id": 67,
+    "name": "Broccoli"
+  },
+  {
+    "id": 72,
+    "name": "Burrito"
+  },
+  {
+    "id": 76,
+    "name": "Cabbage"
+  },
+  {
+    "id": 78,
+    "name": "Cake"
+  },
+  {
+    "id": 86,
+    "name": "Candy"
+  },
+  {
+    "id": 89,
+    "name": "Cantaloupe"
+  },
+  {
+    "id": 92,
+    "name": "Carrot"
+  },
+  {
+    "id": 105,
+    "name": "Cheese"
+  },
+  {
+    "id": 125,
+    "name": "Common fig"
+  },
+  {
+    "id": 132,
+    "name": "Cookie"
+  },
+  {
+    "id": 140,
+    "name": "Cream"
+  },
+  {
+    "id": 143,
+    "name": "Croissant"
+  },
+  {
+    "id": 146,
+    "name": "Cucumber"
+  },
+  {
+    "id": 151,
+    "name": "Dairy Product"
+  },
+  {
+    "id": 154,
+    "name": "Dessert"
+  },
+  {
+    "id": 166,
+    "name": "Doughnut"
+  },
+  {
+    "id": 171,
+    "name": "Drink"
+  },
+  {
+    "id": 178,
+    "name": "Egg (Food)"
+  },
+  {
+    "id": 199,
+    "name": "Food"
+  },
+  {
+    "id": 207,
+    "name": "French fries"
+  },
+  {
+    "id": 210,
+    "name": "Fruit"
+  },
+  {
+    "id": 213,
+    "name": "Garden Asparagus"
+  },
+  {
+    "id": 226,
+    "name": "Grape"
+  },
+  {
+    "id": 227,
+    "name": "Grapefruit"
+  },
+  {
+    "id": 229,
+    "name": "Guacamole"
+  },
+  {
+    "id": 256,
+    "name": "Hot dog"
+  },
+  {
+    "id": 273,
+    "name": "Ice cream"
+  },
+  {
+    "id": 287,
+    "name": "Juice"
+  },
+  {
+    "id": 306,
+    "name": "Lemon"
+  },
+  {
+    "id": 323,
+    "name": "Mango"
+  },
+  {
+    "id": 333,
+    "name": "Milk"
+  },
+  {
+    "id": 344,
+    "name": "Muffin"
+  },
+  {
+    "id": 347,
+    "name": "Mushroom"
+  },
+  {
+    "id": 356,
+    "name": "Orange"
+  },
+  {
+    "id": 365,
+    "name": "Pancake"
+  },
+  {
+    "id": 372,
+    "name": "Pasta"
+  },
+  {
+    "id": 373,
+    "name": "Pastry"
+  },
+  {
+    "id": 374,
+    "name": "Peach"
+  },
+  {
+    "id": 375,
+    "name": "Pear"
+  },
+  {
+    "id": 389,
+    "name": "Pineapple"
+  },
+  {
+    "id": 391,
+    "name": "Pizza"
+  },
+  {
+    "id": 399,
+    "name": "Pomegranate"
+  },
+  {
+    "id": 400,
+    "name": "Popcorn"
+  },
+  {
+    "id": 404,
+    "name": "Potato"
+  },
+  {
+    "id": 407,
+    "name": "Pretzel"
+  },
+  {
+    "id": 414,
+    "name": "Radish"
+  },
+  {
+    "id": 430,
+    "name": "Salad"
+  },
+  {
+    "id": 433,
+    "name": "Sandwich"
+  },
+  {
+    "id": 468,
+    "name": "Snack"
+  },
+  {
+    "id": 496,
+    "name": "Strawberry"
+  },
+  {
+    "id": 501,
+    "name": "Submarine sandwich"
+  },
+  {
+    "id": 507,
+    "name": "Sushi"
+  },
+  {
+    "id": 518,
+    "name": "Taco"
+  },
+  {
+    "id": 521,
+    "name": "Tart"
+  },
+  {
+    "id": 523,
+    "name": "Tea"
+  },
+  {
+    "id": 535,
+    "name": "Tin can"
+  },
+  {
+    "id": 540,
+    "name": "Tomato"
+  },
+  {
+    "id": 566,
+    "name": "Vegetable"
+  },
+  {
+    "id": 571,
+    "name": "Waffle"
+  },
+  {
+    "id": 579,
+    "name": "Watermelon"
+  },
+  {
+    "id": 592,
+    "name": "Winter melon"
+  },
+  {
+    "id": 600,
+    "name": "Zucchini"
+  }
+]

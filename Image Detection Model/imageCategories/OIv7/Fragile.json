@@ -1,0 +1,442 @@
+[
+  {
+    "id": 4,
+    "name": "Alarm clock"
+  },
+  {
+    "id": 10,
+    "name": "Apple"
+  },
+  {
+    "id": 12,
+    "name": "Artichoke"
+  },
+  {
+    "id": 16,
+    "name": "Bagel"
+  },
+  {
+    "id": 17,
+    "name": "Baked goods"
+  },
+  {
+    "id": 21,
+    "name": "Banana"
+  },
+  {
+    "id": 37,
+    "name": "Beer"
+  },
+  {
+    "id": 39,
+    "name": "Bell pepper"
+  },
+  {
+    "id": 50,
+    "name": "Blender"
+  },
+  {
+    "id": 65,
+    "name": "Bread"
+  },
+  {
+    "id": 67,
+    "name": "Broccoli"
+  },
+  {
+    "id": 72,
+    "name": "Burrito"
+  },
+  {
+    "id": 76,
+    "name": "Cabbage"
+  },
+  {
+    "id": 78,
+    "name": "Cake"
+  },
+  {
+    "id": 80,
+    "name": "Calculator"
+  },
+  {
+    "id": 82,
+    "name": "Camera"
+  },
+  {
+    "id": 86,
+    "name": "Candy"
+  },
+  {
+    "id": 89,
+    "name": "Cantaloupe"
+  },
+  {
+    "id": 92,
+    "name": "Carrot"
+  },
+  {
+    "id": 100,
+    "name": "Ceiling fan"
+  },
+  {
+    "id": 105,
+    "name": "Cheese"
+  },
+  {
+    "id": 113,
+    "name": "Clock"
+  },
+  {
+    "id": 117,
+    "name": "Cocktail"
+  },
+  {
+    "id": 120,
+    "name": "Coffee"
+  },
+  {
+    "id": 123,
+    "name": "Coffeemaker"
+  },
+  {
+    "id": 125,
+    "name": "Common fig"
+  },
+  {
+    "id": 127,
+    "name": "Computer keyboard"
+  },
+  {
+    "id": 128,
+    "name": "Computer monitor"
+  },
+  {
+    "id": 129,
+    "name": "Computer mouse"
+  },
+  {
+    "id": 132,
+    "name": "Cookie"
+  },
+  {
+    "id": 134,
+    "name": "Corded phone"
+  },
+  {
+    "id": 140,
+    "name": "Cream"
+  },
+  {
+    "id": 143,
+    "name": "Croissant"
+  },
+  {
+    "id": 146,
+    "name": "Cucumber"
+  },
+  {
+    "id": 151,
+    "name": "Dairy Product"
+  },
+  {
+    "id": 154,
+    "name": "Dessert"
+  },
+  {
+    "id": 157,
+    "name": "Digital clock"
+  },
+  {
+    "id": 159,
+    "name": "Dishwasher"
+  },
+  {
+    "id": 166,
+    "name": "Doughnut"
+  },
+  {
+    "id": 170,
+    "name": "Drill (Tool)"
+  },
+  {
+    "id": 171,
+    "name": "Drink"
+  },
+  {
+    "id": 178,
+    "name": "Egg (Food)"
+  },
+  {
+    "id": 199,
+    "name": "Food"
+  },
+  {
+    "id": 200,
+    "name": "Food processor"
+  },
+  {
+    "id": 207,
+    "name": "French fries"
+  },
+  {
+    "id": 210,
+    "name": "Fruit"
+  },
+  {
+    "id": 213,
+    "name": "Garden Asparagus"
+  },
+  {
+    "id": 226,
+    "name": "Grape"
+  },
+  {
+    "id": 227,
+    "name": "Grapefruit"
+  },
+  {
+    "id": 229,
+    "name": "Guacamole"
+  },
+  {
+    "id": 231,
+    "name": "Hair dryer"
+  },
+  {
+    "id": 244,
+    "name": "Headphones"
+  },
+  {
+    "id": 245,
+    "name": "Heater"
+  },
+  {
+    "id": 252,
+    "name": "Home appliance"
+  },
+  {
+    "id": 273,
+    "name": "Ice cream"
+  },
+  {
+    "id": 287,
+    "name": "Juice"
+  },
+  {
+    "id": 289,
+    "name": "Kettle"
+  },
+  {
+    "id": 291,
+    "name": "Kitchen appliance"
+  },
+  {
+    "id": 304,
+    "name": "Laptop"
+  },
+  {
+    "id": 306,
+    "name": "Lemon"
+  },
+  {
+    "id": 308,
+    "name": "Light bulb"
+  },
+  {
+    "id": 309,
+    "name": "Light switch"
+  },
+  {
+    "id": 323,
+    "name": "Mango"
+  },
+  {
+    "id": 329,
+    "name": "Mechanical fan"
+  },
+  {
+    "id": 331,
+    "name": "Microphone"
+  },
+  {
+    "id": 332,
+    "name": "Microwave oven"
+  },
+  {
+    "id": 333,
+    "name": "Milk"
+  },
+  {
+    "id": 337,
+    "name": "Mixer"
+  },
+  {
+    "id": 339,
+    "name": "Mobile phone"
+  },
+  {
+    "id": 344,
+    "name": "Muffin"
+  },
+  {
+    "id": 347,
+    "name": "Mushroom"
+  },
+  {
+    "id": 348,
+    "name": "Musical instrument"
+  },
+  {
+    "id": 349,
+    "name": "Musical keyboard"
+  },
+  {
+    "id": 356,
+    "name": "Orange"
+  },
+  {
+    "id": 365,
+    "name": "Pancake"
+  },
+  {
+    "id": 372,
+    "name": "Pasta"
+  },
+  {
+    "id": 373,
+    "name": "Pastry"
+  },
+  {
+    "id": 374,
+    "name": "Peach"
+  },
+  {
+    "id": 375,
+    "name": "Pear"
+  },
+  {
+    "id": 384,
+    "name": "Piano"
+  },
+  {
+    "id": 389,
+    "name": "Pineapple"
+  },
+  {
+    "id": 391,
+    "name": "Pizza"
+  },
+  {
+    "id": 399,
+    "name": "Pomegranate"
+  },
+  {
+    "id": 400,
+    "name": "Popcorn"
+  },
+  {
+    "id": 404,
+    "name": "Potato"
+  },
+  {
+    "id": 406,
+    "name": "Pressure cooker"
+  },
+  {
+    "id": 407,
+    "name": "Pretzel"
+  },
+  {
+    "id": 408,
+    "name": "Printer"
+  },
+  {
+    "id": 414,
+    "name": "Radish"
+  },
+  {
+    "id": 419,
+    "name": "Refrigerator"
+  },
+  {
+    "id": 420,
+    "name": "Remote control"
+  },
+  {
+    "id": 430,
+    "name": "Salad"
+  },
+  {
+    "id": 433,
+    "name": "Sandwich"
+  },
+  {
+    "id": 468,
+    "name": "Snack"
+  },
+  {
+    "id": 496,
+    "name": "Strawberry"
+  },
+  {
+    "id": 501,
+    "name": "Submarine sandwich"
+  },
+  {
+    "id": 507,
+    "name": "Sushi"
+  },
+  {
+    "id": 518,
+    "name": "Taco"
+  },
+  {
+    "id": 521,
+    "name": "Tart"
+  },
+  {
+    "id": 523,
+    "name": "Tea"
+  },
+  {
+    "id": 526,
+    "name": "Telephone"
+  },
+  {
+    "id": 527,
+    "name": "Television"
+  },
+  {
+    "id": 537,
+    "name": "Toaster"
+  },
+  {
+    "id": 540,
+    "name": "Tomato"
+  },
+  {
+    "id": 566,
+    "name": "Vegetable"
+  },
+  {
+    "id": 571,
+    "name": "Waffle"
+  },
+  {
+    "id": 579,
+    "name": "Watermelon"
+  },
+  {
+    "id": 589,
+    "name": "Wine"
+  },
+  {
+    "id": 592,
+    "name": "Winter melon"
+  },
+  {
+    "id": 600,
+    "name": "Zucchini"
+  }
+]

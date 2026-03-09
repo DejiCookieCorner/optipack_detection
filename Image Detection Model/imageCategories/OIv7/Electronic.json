@@ -1,0 +1,210 @@
+[
+  {
+    "id": 4,
+    "name": "Alarm clock"
+  },
+  {
+    "id": 50,
+    "name": "Blender"
+  },
+  {
+    "id": 80,
+    "name": "Calculator"
+  },
+  {
+    "id": 94,
+    "name": "Cassette deck"
+  },
+  {
+    "id": 100,
+    "name": "Ceiling fan"
+  },
+  {
+    "id": 123,
+    "name": "Coffeemaker"
+  },
+  {
+    "id": 127,
+    "name": "Computer keyboard"
+  },
+  {
+    "id": 128,
+    "name": "Computer monitor"
+  },
+  {
+    "id": 129,
+    "name": "Computer mouse"
+  },
+  {
+    "id": 134,
+    "name": "Corded phone"
+  },
+  {
+    "id": 157,
+    "name": "Digital clock"
+  },
+  {
+    "id": 159,
+    "name": "Dishwasher"
+  },
+  {
+    "id": 170,
+    "name": "Drill (Tool)"
+  },
+  {
+    "id": 194,
+    "name": "Flashlight"
+  },
+  {
+    "id": 200,
+    "name": "Food processor"
+  },
+  {
+    "id": 228,
+    "name": "Grinder"
+  },
+  {
+    "id": 231,
+    "name": "Hair dryer"
+  },
+  {
+    "id": 236,
+    "name": "Hand dryer"
+  },
+  {
+    "id": 244,
+    "name": "Headphones"
+  },
+  {
+    "id": 245,
+    "name": "Heater"
+  },
+  {
+    "id": 252,
+    "name": "Home appliance"
+  },
+  {
+    "id": 274,
+    "name": "Indoor rower"
+  },
+  {
+    "id": 278,
+    "name": "Ipod"
+  },
+  {
+    "id": 289,
+    "name": "Kettle"
+  },
+  {
+    "id": 291,
+    "name": "Kitchen appliance"
+  },
+  {
+    "id": 304,
+    "name": "Laptop"
+  },
+  {
+    "id": 308,
+    "name": "Light bulb"
+  },
+  {
+    "id": 309,
+    "name": "Light switch"
+  },
+  {
+    "id": 330,
+    "name": "Medical equipment"
+  },
+  {
+    "id": 331,
+    "name": "Microphone"
+  },
+  {
+    "id": 332,
+    "name": "Microwave oven"
+  },
+  {
+    "id": 337,
+    "name": "Mixer"
+  },
+  {
+    "id": 339,
+    "name": "Mobile phone"
+  },
+  {
+    "id": 367,
+    "name": "Paper cutter"
+  },
+  {
+    "id": 378,
+    "name": "Pencil sharpener"
+  },
+  {
+    "id": 405,
+    "name": "Power plugs and sockets"
+  },
+  {
+    "id": 406,
+    "name": "Pressure cooker"
+  },
+  {
+    "id": 408,
+    "name": "Printer"
+  },
+  {
+    "id": 419,
+    "name": "Refrigerator"
+  },
+  {
+    "id": 420,
+    "name": "Remote control"
+  },
+  {
+    "id": 450,
+    "name": "Sewing machine"
+  },
+  {
+    "id": 467,
+    "name": "Slow cooker"
+  },
+  {
+    "id": 492,
+    "name": "Stationary bicycle"
+  },
+  {
+    "id": 497,
+    "name": "Street light"
+  },
+  {
+    "id": 526,
+    "name": "Telephone"
+  },
+  {
+    "id": 527,
+    "name": "Television"
+  },
+  {
+    "id": 537,
+    "name": "Toaster"
+  },
+  {
+    "id": 548,
+    "name": "Traffic light"
+  },
+  {
+    "id": 552,
+    "name": "Treadmill"
+  },
+  {
+    "id": 572,
+    "name": "Waffle iron"
+  },
+  {
+    "id": 573,
+    "name": "Wall clock"
+  },
+  {
+    "id": 575,
+    "name": "Washing machine"
+  }
+]
